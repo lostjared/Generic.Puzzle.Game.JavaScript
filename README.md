@@ -1,5 +1,7 @@
 # Generic Puzzle Game
 
+![screenshot](https://github.com/lostjared/Generic.Puzzle.Game.JavaScript/blob/main/screenshot.jpg)
+
 This is a JavaScript implementation of a generic puzzle game that involves managing a grid and manipulating blocks. The game features different levels, a scoring system, and resets the game if blocks fill up to the top of the grid.
 
 ## Features
