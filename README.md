@@ -49,7 +49,7 @@ Open `index.html` in a web browser to start the game. Use the arrow keys to cont
 
 ### Editing the Game
 
-1. Open `game.js` to modify the game logic.
+1. Open `puzzle.js` to modify the game logic.
 2. Open `index.html` to modify the HTML structure or styles.
 
 ## Contributing
