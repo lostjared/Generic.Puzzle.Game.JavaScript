@@ -28,7 +28,7 @@ This is a JavaScript implementation of a generic puzzle game that involves manag
 ## File Structure
 
 - `index.html`: The main HTML file that sets up the canvas and includes the JavaScript.
-- `game.js`: Contains the game logic and rendering functions.
+- `puzzle.js`: Contains the game logic and rendering functions.
 - `img_converted/`: Directory containing all the game graphics.
 
 ## Usage
